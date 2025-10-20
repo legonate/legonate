@@ -1,3 +1,3 @@
 # About me
 
-I am a Computer Science student at SUNY Brockport.
+I am currently pursuing a bachelor's degree in computer science at SUNY Brockport.
